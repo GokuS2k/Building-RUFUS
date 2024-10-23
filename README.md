@@ -1,4 +1,4 @@
-# Rufus for RAG context
+# Rufus for RAG context (Rufus.py)
 
 ## Req:
 - python, Selenium, Bs4, any web driver (ex: Chrome Driver)
